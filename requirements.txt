@@ -1,0 +1,2 @@
+PySide6-Essentials>=6.6
+Nuitka==4.1.2
